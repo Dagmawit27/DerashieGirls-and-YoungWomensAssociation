@@ -178,7 +178,7 @@ p {
 
 .hero {
   /*background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);*/
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url(../image/bg-2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url('/DerashieGirls-and-YoungWomensAssociation/image/bg-2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover; 
@@ -873,3 +873,4 @@ p {
     opacity: 1;
 
 }
+
